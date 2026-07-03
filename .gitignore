@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+**/.next/
+
+# Environment files
+.env
+**/.env
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
